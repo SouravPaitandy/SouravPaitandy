@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouravPaitandy
-- 👀 I’m interested in ... Web development 
-- 🌱 I’m currently learning ... Javascript 
+- 👀 I’m interested in ... Full Stack (MERN) Web development 
+- 🌱 I’m currently learning ... MongoDB and Express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@paitandy_ji is my instagram profile 
 
