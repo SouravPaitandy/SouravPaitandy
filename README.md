@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-paitandy/">LinkedIn</a> •
-  <a href="https://portfolio-sourav-paitandy.vercel.app">Portfolio</a> •
+  <a href="https://www.souravpaitandy.me/">Portfolio</a> •
   <a href="mailto:souravpaitandy@gmail.com">Email</a>
 </p>
 
@@ -20,14 +20,14 @@ My work focuses on **WebSockets, real-time synchronization, system design**, and
 
 ### 🧩 Featured Projects
 
-- **Hexode** — A **real-time collaborative cloud IDE**  
+- [**Hexode** — A **real-time collaborative cloud IDE**](https://hexode.vercel.app/) 
   Multi-user code editing (CRDTs), live sync, sandboxed code execution  
   *Tech:* React, Node.js, WebSockets, Y.js, MongoDB
 
-- **DrawSync** — Collaborative drawing platform  
+- [**DrawSync** — Collaborative drawing platform](https://drawsync.vercel.app/)  
   Live canvas sync using WebSockets
 
-- **CollabHub** — Task & meeting collaboration system  
+- [**CollabHub** — Task & meeting collaboration system](https://collabhub-1.vercel.app/)  
   Achieved **<200ms real-time sync latency**
 
 ---
