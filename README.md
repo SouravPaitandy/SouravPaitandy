@@ -27,7 +27,7 @@ My work focuses on **WebSockets, real-time synchronization, system design**, and
 - [**DrawSync** — Collaborative drawing platform](https://drawsync.vercel.app/)  
   Live canvas sync using WebSockets
 
-- [**CollabHub** — Task & meeting collaboration system](https://collabhub-1.vercel.app/)  
+- [**Coordly (Formarly CollabHub)** — Task, Document & meeting collaboration system](https://getcoordly.vercel.app/)  
   Achieved **<200ms real-time sync latency**
 
 ---
