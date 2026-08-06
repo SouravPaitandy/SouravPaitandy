@@ -28,10 +28,8 @@ Rather than building basic CRUD applications, I like creating products that requ
 
 ## 🧩 Featured Projects
 
-### 🚀 Hexode
+### 🚀 Hexode    https://hexode.vercel.app/
 **AI-native Collaborative Cloud IDE**
-
-https://hexode.vercel.app/
 
 A collaborative cloud IDE featuring real-time code editing, AI-assisted workflows, secure code execution, and multi-user synchronization.
 
@@ -46,9 +44,7 @@ React • Node.js • Express • WebSockets • Y.js • MongoDB
 
 ---
 
-### 🎨 DrawSync
-
-https://drawsync.vercel.app/
+### 🎨 DrawSync    https://drawsync.vercel.app/
 
 A real-time collaborative whiteboard enabling multiple users to draw together with live synchronization.
 
@@ -57,9 +53,7 @@ React • Node.js • WebSockets • HTML Canvas
 
 ---
 
-### 📋 Coordly *(formerly CollabHub)*
-
-https://getcoordly.vercel.app/
+### 📋 Coordly *(formerly CollabHub)*   https://getcoordly.vercel.app/
 
 A collaboration platform for teams to manage tasks, documents, and meetings with real-time updates.
 
@@ -76,37 +70,13 @@ Next.js • Node.js • MongoDB • WebSockets
 
 ## 🛠 Tech Stack
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
+### Frontend           ### Backend            ### AI                            ### Real-Time            ### Databases             ### Languages
+- React                - Node.js              - OpenAI APIs                     - WebSockets             - MongoDB                 - JavaScript
+- Next.js              - Express.js           - Prompt Engineering              - Y.js                   - SQL                     - Java ⭐ HackerRank 5★
+- Tailwind CSS         - REST APIs            - AI-assisted Applications        - CRDTs                                            - Python
 - HTML5
 - CSS3
 - JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### AI
-- OpenAI APIs
-- Prompt Engineering
-- AI-assisted Applications
-
-### Real-Time
-- WebSockets
-- Y.js
-- CRDTs
-
-### Databases
-- MongoDB
-- SQL
-
-### Languages
-- JavaScript
-- Java ⭐ HackerRank 5★
-- Python
 
 ---
 
@@ -127,10 +97,3 @@ Next.js • Node.js • MongoDB • WebSockets
 - Frontend Engineering
 - AI Application Development
 - Open Source Collaboration
-
----
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souravpaitandy&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravpaitandy&layout=compact&theme=transparent&hide_border=true" />
-</p>
