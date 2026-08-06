@@ -131,9 +131,6 @@ Next.js • Node.js • MongoDB • WebSockets
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravpaitandy&show_icons=true&hide_title=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravpaitandy&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=souravpaitandy&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravpaitandy&layout=compact&theme=transparent&hide_border=true" />
 </p>
